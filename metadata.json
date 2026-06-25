@@ -1,0 +1,6 @@
+{
+  "name": "Hayat AI",
+  "description": "An intelligent, calm, and respectful AI assistant designed to help you learn, create, solve problems, and achieve goals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
